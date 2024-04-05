@@ -40,7 +40,6 @@
     {"name":"Fumble: All Thumbs","value":"<p>You lose your Dex bonus on attack rolls for [[3]] rounds.</p>","_id":"PP5M8EfF0q8lGvyV"},
     {"name":"Fumble: Nose Bleed","value":"<p>You take [[1]] point of bleed.</p>","_id":"PwavwsyCOvOtYKeG"},
     {"name":"Fumble: Head Rush","value":"<p>You are sickened for [[/r 1d4]] rounds.</p>","_id":"Q1vVivth07Jduube"},
-    
     {"name":"Fumble: Mind Drain","value":"<p>You take [[/r 1d4]] points of damage to INT, WIS or CHA (determined randomly [[/r 1d3]]).</p>","_id":"QTiTaeMh686giypm"},
     {"name":"Fumble: Awkward Attack (Ranged)","value":"<p>You take a [[-2]] penalty to AC for [[/r 1d4]] rounds.</p>","_id":"RFBFnNRlLBvBguY4"},
     {"name":"Fumble: Energy Transfer","value":"<p>Lose one randomly determined spell or spell slot. Your target can cast this spell next round.</p>","_id":"RJMjdmVSmRErpOm5"},
