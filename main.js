@@ -1,15 +1,6 @@
 import './style.css'
-import { setupFumble } from './fumble';
+import { landing as pf1eLanding} from './systems/pathfinder-1e/landing';
 
-document.querySelector('#app').innerHTML = `
-  <div>
-    <h1>Generate a Fumble!</h1>
-    <div id="card">
-      <button id="fumble" type="button"></button>
-    </div>
-  </div>
-`
 
-setupFumble(document.querySelector('#fumble'), document.querySelector('#card'));
 
-// setupCounter(document.querySelector('#counter'))
+pf1eLanding();

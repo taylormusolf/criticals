@@ -1,5 +1,5 @@
 [
-    {"name":"All Or Nothing","value":"<p>You take a -a penalty on attack rolls until you score a critical hit</p>","type":"Melee Fumble"},
+    {"name":"All Or Nothing","value":"<p>You take a -1 penalty on attack rolls until you score a critical hit</p>","type":"Melee Fumble"},
     {"name":"Armor Smash","value":"<p>Your attack deals damage to your armor.</p>","type":"Melee Fumble"},
     {"name":"Attack The Darkness","value":"<p>All your enemies have concealment from you for 1d4 rounds.</p>","type":"Melee Fumble"},
     {"name":"Awkward Attack","value":"<p>You take a -2 penalty to AC for 1d4 rounds.</p>","type":"Melee Fumble"},
